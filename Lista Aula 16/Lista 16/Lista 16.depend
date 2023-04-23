@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669748042 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\lista aula 16\lista 16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

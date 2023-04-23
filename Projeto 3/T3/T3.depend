@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1670888191 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 3\t3\gerador_de_testes.c
+	<stdlib.h>
+	<math.h>
+	"gerador_de_testes.h"
+
+1670888191 c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 3\t3\gerador_de_testes.h
+	"imagem.h"
+
+1670888191 c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 3\t3\imagem.h
+
+1670888191 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 3\t3\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1671046427 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 3\t3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gerador_de_testes.h"
+	"trabalho3.h"
+
+1670888191 c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 3\t3\trabalho3.h
+	"imagem.h"
+
+1671147586 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 3\t3\t3.c
+	"trabalho3.h"
+	<stdlib.h>
+	<stdio.h>
+

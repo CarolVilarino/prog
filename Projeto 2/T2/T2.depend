@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1666708559 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\wavfile.c
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	"wavfile.h"
+
+1666708559 c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\wavfile.h
+	<stdio.h>
+
+1668107656 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\t2-1795970-2129981.c
+	<stdio.h>
+	<stdlib.h>
+	"trabalho2.h"
+	<windows.h>
+
+1666708559 c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\trabalho2.h
+
+1666708559 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\teste1_ganho.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1666708559 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\teste2_meia.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1666708559 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\teste3_dobra.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1666708559 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\teste4_fade.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1666708559 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\teste5_gerar.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+
+1666708559 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 2\t2\teste5_testar.c
+	<stdlib.h>
+	"wavfile.h"
+	"trabalho2.h"
+

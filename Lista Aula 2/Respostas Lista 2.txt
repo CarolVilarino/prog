@@ -1,0 +1,34 @@
+1.    11
+	16
+	1
+	1,25
+	2
+	1
+	-5 -5
+	5,1
+	4
+
+3.    De acordo com os números antes do 'f' no indicador da variável float,
+	sendo digitados como '%.Nf' onde N é um numero de 0 a 5, as casas após
+	a vírgula do número são alteradas, onde o padrão são 6 casas, os valores
+	são mostrados na tela respeitando a precisão ditada, onde 0 casas retorna
+	um valor inteiro aproximado. Dependendo do número não considerado, o valor
+	real da variável pode ser aproximado por cima.
+
+4.    10
+	10
+	10
+	10
+	11
+	21
+	12
+
+7.
+
+	printf ("%f\n", x1 % x2); //uso incorreto da tecla de porcentagem
+	printf ("%f\n", &x1);     //uso incorreto do &, deve ser usado para scanf e ponteiros
+	x1 = x2                   //faltou incluir ponto e virgula no final da linha 
+	printf ("%d\n", x3);      //não atribuiu um valor a x3
+	X2 = 10;                  //C diferencia letra maiuscula e minuscula, variavel inexistente
+	x1 + 10.0;                //conta sem passagem de valor
+	x3 = 039;                 //o numero atribuido ao x3 sera considerado como octal, podendo dar resultados errados

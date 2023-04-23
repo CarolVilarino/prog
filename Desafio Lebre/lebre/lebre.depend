@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664289666 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de programação\2022-2\desafio lebre\lebre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1664289900 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\desafio lebre\lebre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+

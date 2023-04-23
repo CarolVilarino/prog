@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1670896411 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 4\t4\imagem.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"imagem.h"
+
+1670896411 c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 4\t4\imagem.h
+
+1671067561 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 4\t4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"imagem.h"
+

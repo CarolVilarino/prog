@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1664386527 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de programação\2022-2\projeto 1\t1\main.c
+	<stdio.h>
+	<float.h>
+	<math.h>
+	"trabalho1.h"
+
+1664386527 c:\users\gferr\onedrive\documentos\aulas\fundamentos de programação\2022-2\projeto 1\t1\trabalho1.h
+
+1667338363 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de programação\2022-2\projeto 1\t1\trabalho1.c
+	<stdlib.h>
+	"trabalho1.h"
+
+1667338363 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de programação\2022-2\projeto 1\t1\t1-1795970.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"trabalho1.h"
+
+1667507051 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 1\t1\main.c
+	<stdio.h>
+	<float.h>
+	<math.h>
+	<windows.h>
+	"trabalho1.h"
+
+1664386527 c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 1\t1\trabalho1.h
+
+1667852107 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 1\t1\t1-1795970.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"trabalho1.h"
+
+1667338363 source:c:\users\gferr\onedrive\documentos\aulas\fundamentos de prog\2022-2\projeto 1\t1\trabalho1.c
+	<stdlib.h>
+	"trabalho1.h"
+
